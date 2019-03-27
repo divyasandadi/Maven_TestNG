@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="WebDriverTest" annotations="JDK" parallel="tests">
+         
+  <test name="NewTest">
+	 <classes>
+	   <class name="exampleclass.NewTest"/>
+	 </classes>
+   </test>
+   
+  <test name="NewTest2">
+     <classes>
+       <class name="testpackage2.NewTest2"/>
+     </classes>
+   </test>
+</suite>

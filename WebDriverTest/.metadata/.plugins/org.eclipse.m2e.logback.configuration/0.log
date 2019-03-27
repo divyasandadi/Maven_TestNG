@@ -1,0 +1,35 @@
+2019-03-27 11:35:41,935 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 11:36:29,985 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WebDriverTest:WebDriverTest:0.0.1-SNAPSHOT @ C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest\pom.xml.
+2019-03-27 11:36:30,889 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:30,939 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:30,944 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:30,969 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:32,318 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WebDriverTest:WebDriverTest:0.0.1-SNAPSHOT @ C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest\pom.xml.
+2019-03-27 11:36:33,097 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:33,124 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:33,127 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:33,191 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:34,567 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:34,588 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:34,591 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:34,596 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:47,042 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:47,045 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:47,047 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:36:47,048 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:36:55,693 [Worker-8: Launching Executing test in C__Users_dsandadi_JavaWorkspace_WebDriverTest_WebDriverTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest
+2019-03-27 11:36:55,694 [Worker-8: Launching Executing test in C__Users_dsandadi_JavaWorkspace_WebDriverTest_WebDriverTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-27 11:37:10,722 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:37:10,724 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:37:10,727 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:37:10,732 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:45:52,088 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:45:52,098 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest\src\main\resources
+2019-03-27 11:45:52,099 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:45:52,105 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest\src\test\resources
+2019-03-27 11:46:10,569 [Worker-3: Launching Executing test in C__Users_dsandadi_git_repository_WebDriverTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\dsandadi\git\repository\WebDriverTest
+2019-03-27 11:46:10,571 [Worker-3: Launching Executing test in C__Users_dsandadi_git_repository_WebDriverTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-27 11:46:25,996 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:46:26,003 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest\src\main\resources
+2019-03-27 11:46:26,006 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-27 11:46:26,012 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dsandadi\JavaWorkspace\WebDriverTest\WebDriverTest\src\test\resources

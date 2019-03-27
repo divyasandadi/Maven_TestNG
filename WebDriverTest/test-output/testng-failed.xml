@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [WebDriverTest]" guice-stage="DEVELOPMENT">
+  <test name="NewTest">
+    <classes>
+      <class name="exampleclass.NewTest"/>
+    </classes>
+  </test> <!-- NewTest -->
+  <test name="NewTest2">
+    <classes>
+      <class name="testpackage2.NewTest2"/>
+    </classes>
+  </test> <!-- NewTest2 -->
+</suite> <!-- Failed suite [WebDriverTest] -->

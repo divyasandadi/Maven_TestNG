@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: exampleclass.NewTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.357 s <<< FAILURE! - in exampleclass.NewTest
+beforeTest(exampleclass.NewTest)  Time elapsed: 0.223 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/DesiredCapabilities
+	at exampleclass.NewTest.beforeTest(NewTest.java:14)
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.remote.DesiredCapabilities
+	at exampleclass.NewTest.beforeTest(NewTest.java:14)
+

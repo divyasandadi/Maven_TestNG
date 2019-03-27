@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-27T16:20:21Z" name="WebDriverTest" finished-at="2019-03-27T16:20:31Z" duration-ms="9957">
+    <groups>
+    </groups>
+    <test started-at="2019-03-27T16:20:21Z" name="NewTest" finished-at="2019-03-27T16:20:26Z" duration-ms="5364">
+      <class name="exampleclass.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:exampleclass.NewTest@5e5d171f]" started-at="2019-03-27T11:20:21Z" name="beforeTest" finished-at="2019-03-27T11:20:24Z" duration-ms="2839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="a_testEasy()[pri:0, instance:exampleclass.NewTest@5e5d171f]" started-at="2019-03-27T11:20:24Z" name="a_testEasy" finished-at="2019-03-27T11:20:25Z" duration-ms="1386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_testEasy -->
+        <test-method signature="b_login()[pri:0, instance:exampleclass.NewTest@5e5d171f]" started-at="2019-03-27T11:20:25Z" name="b_login" finished-at="2019-03-27T11:20:25Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_login -->
+        <test-method signature="c_loginenable()[pri:0, instance:exampleclass.NewTest@5e5d171f]" started-at="2019-03-27T11:20:25Z" name="c_loginenable" finished-at="2019-03-27T11:20:25Z" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_loginenable -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:exampleclass.NewTest@5e5d171f]" started-at="2019-03-27T11:20:25Z" name="afterTest" finished-at="2019-03-27T11:20:26Z" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- exampleclass.NewTest -->
+    </test> <!-- NewTest -->
+    <test started-at="2019-03-27T16:20:26Z" name="NewTest2" finished-at="2019-03-27T16:20:31Z" duration-ms="4546">
+      <class name="testpackage2.NewTest2">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:testpackage2.NewTest2@58a9760d]" started-at="2019-03-27T11:20:26Z" name="Launch" finished-at="2019-03-27T11:20:28Z" duration-ms="2175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="a_GetTitle()[pri:0, instance:testpackage2.NewTest2@58a9760d]" started-at="2019-03-27T11:20:28Z" name="a_GetTitle" finished-at="2019-03-27T11:20:30Z" duration-ms="1447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_GetTitle -->
+        <test-method signature="b_Fields()[pri:0, instance:testpackage2.NewTest2@58a9760d]" started-at="2019-03-27T11:20:30Z" name="b_Fields" finished-at="2019-03-27T11:20:30Z" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_Fields -->
+        <test-method signature="c_Enable()[pri:0, instance:testpackage2.NewTest2@58a9760d]" started-at="2019-03-27T11:20:30Z" name="c_Enable" finished-at="2019-03-27T11:20:30Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_Enable -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testpackage2.NewTest2@58a9760d]" started-at="2019-03-27T11:20:30Z" name="QuitBrowser" finished-at="2019-03-27T11:20:31Z" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- testpackage2.NewTest2 -->
+    </test> <!-- NewTest2 -->
+  </suite> <!-- WebDriverTest -->
+</testng-results>
